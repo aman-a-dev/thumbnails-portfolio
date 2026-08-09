@@ -1,0 +1,208 @@
+/**
+* @license
+*
+* Font Family: Sora
+* Designed by: Jonathan Barnbrook, Julián Moncada
+* URL: https://www.fontshare.com/fonts/sora
+* © 2026 Indian Type Foundry
+*
+* Sora Thin 
+* Sora ThinItalic 
+* Sora ExtraLight 
+* Sora ExtraLightItalic 
+* Sora Light 
+* Sora LightItalic 
+* Sora Regular 
+* Sora Italic 
+* Sora Medium 
+* Sora MediumItalic 
+* Sora SemiBold 
+* Sora SemiBoldItalic 
+* Sora Bold 
+* Sora BoldItalic 
+* Sora ExtraBold 
+* Sora ExtraBoldItalic 
+* Sora Variable (Variable font)
+* Sora VariableItalic (Variable font)
+
+*
+*/
+@font-face {
+  font-family: 'Sora-Thin';
+  src: url('../fonts/Sora-Thin.woff2') format('woff2'),
+       url('../fonts/Sora-Thin.woff') format('woff'),
+       url('../fonts/Sora-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-ThinItalic';
+  src: url('../fonts/Sora-ThinItalic.woff2') format('woff2'),
+       url('../fonts/Sora-ThinItalic.woff') format('woff'),
+       url('../fonts/Sora-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sora-ExtraLight';
+  src: url('../fonts/Sora-ExtraLight.woff2') format('woff2'),
+       url('../fonts/Sora-ExtraLight.woff') format('woff'),
+       url('../fonts/Sora-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-ExtraLightItalic';
+  src: url('../fonts/Sora-ExtraLightItalic.woff2') format('woff2'),
+       url('../fonts/Sora-ExtraLightItalic.woff') format('woff'),
+       url('../fonts/Sora-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sora-Light';
+  src: url('../fonts/Sora-Light.woff2') format('woff2'),
+       url('../fonts/Sora-Light.woff') format('woff'),
+       url('../fonts/Sora-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-LightItalic';
+  src: url('../fonts/Sora-LightItalic.woff2') format('woff2'),
+       url('../fonts/Sora-LightItalic.woff') format('woff'),
+       url('../fonts/Sora-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sora-Regular';
+  src: url('../fonts/Sora-Regular.woff2') format('woff2'),
+       url('../fonts/Sora-Regular.woff') format('woff'),
+       url('../fonts/Sora-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-Italic';
+  src: url('../fonts/Sora-Italic.woff2') format('woff2'),
+       url('../fonts/Sora-Italic.woff') format('woff'),
+       url('../fonts/Sora-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sora-Medium';
+  src: url('../fonts/Sora-Medium.woff2') format('woff2'),
+       url('../fonts/Sora-Medium.woff') format('woff'),
+       url('../fonts/Sora-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-MediumItalic';
+  src: url('../fonts/Sora-MediumItalic.woff2') format('woff2'),
+       url('../fonts/Sora-MediumItalic.woff') format('woff'),
+       url('../fonts/Sora-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sora-SemiBold';
+  src: url('../fonts/Sora-SemiBold.woff2') format('woff2'),
+       url('../fonts/Sora-SemiBold.woff') format('woff'),
+       url('../fonts/Sora-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-SemiBoldItalic';
+  src: url('../fonts/Sora-SemiBoldItalic.woff2') format('woff2'),
+       url('../fonts/Sora-SemiBoldItalic.woff') format('woff'),
+       url('../fonts/Sora-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sora-Bold';
+  src: url('../fonts/Sora-Bold.woff2') format('woff2'),
+       url('../fonts/Sora-Bold.woff') format('woff'),
+       url('../fonts/Sora-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-BoldItalic';
+  src: url('../fonts/Sora-BoldItalic.woff2') format('woff2'),
+       url('../fonts/Sora-BoldItalic.woff') format('woff'),
+       url('../fonts/Sora-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Sora-ExtraBold';
+  src: url('../fonts/Sora-ExtraBold.woff2') format('woff2'),
+       url('../fonts/Sora-ExtraBold.woff') format('woff'),
+       url('../fonts/Sora-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sora-ExtraBoldItalic';
+  src: url('../fonts/Sora-ExtraBoldItalic.woff2') format('woff2'),
+       url('../fonts/Sora-ExtraBoldItalic.woff') format('woff'),
+       url('../fonts/Sora-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-display: swap;
+  font-style: italic;
+}
+/**
+* This is a variable font
+* You can control variable axes as shown below:
+* font-variation-settings: wght 400.0;
+*
+* available axes:
+'wght' (range from 100.0 to 800.0
+*/
+@font-face {
+  font-family: 'Sora-Variable';
+  src: url('../fonts/Sora-Variable.woff2') format('woff2'),
+       url('../fonts/Sora-Variable.woff') format('woff'),
+       url('../fonts/Sora-Variable.ttf') format('truetype');
+  font-weight: 100 800;
+  font-display: swap;
+  font-style: normal;
+}
+/**
+* This is a variable font
+* You can control variable axes as shown below:
+* font-variation-settings: wght 400.0;
+*
+* available axes:
+'wght' (range from 100.0 to 800.0
+*/
+@font-face {
+  font-family: 'Sora-VariableItalic';
+  src: url('../fonts/Sora-VariableItalic.woff2') format('woff2'),
+       url('../fonts/Sora-VariableItalic.woff') format('woff'),
+       url('../fonts/Sora-VariableItalic.ttf') format('truetype');
+  font-weight: 100 800;
+  font-display: swap;
+  font-style: italic;
+}
+
